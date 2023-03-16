@@ -1,0 +1,7 @@
+{
+    "username": "JMEDROSO",
+    "password": "d!H41Yeg'Dq8",
+    "login_url": "https://firstmls-login.sso.remine.com/login?state=hKFo2SBDNGQxQTFrQVNKWm4wVDk2b3RBZlh0aW9LSjh0VEo5TKFupWxvZ2luo3RpZNkgUTUzWnIxZUhPVFROOEtjQjBIdjNSME5BOExoU294Z3CjY2lk2SBNbFllZlBvUjV6dFpkb3lhdVpSQjU0T2RLek1JRFZLSg&client=MlYefPoR5ztZdoyauZRB54OdKzMIDVKJ&protocol=oauth2&audience=https%3A%2F%2Fsso-dashboard-api%2F&redirect_uri=https%3A%2F%2Ffirstmls.sso.remine.com%2Fcallback&scope=openid%20profile%20email%20offline_access&response_type=code&response_mode=query&nonce=bkFyWENlNVA5bnZzWUZpTWI5TnBkRGVjNX5uTVN6U3Jrc09ja3JMLlZ5dA%3D%3D&code_challenge=T3Gshk4eh4JP4-MdJ01vyimUl9rr1BZnu9XocY5Dkvk&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4xMi4wIn0%3D#signin",
+    "remine_url": "https://fmls.remine.com/",
+    "remine_search": "https://fmls.remine.com/discover"
+}
